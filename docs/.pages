@@ -1,0 +1,4 @@
+nav:
+    - attendee
+    - "Tournament specifics": tournament
+    - organizer

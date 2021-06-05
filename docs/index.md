@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# IYPT CC
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site is intended to be a comprehensive documentation for using th IYPT CC system.
 
-## Commands
+In the current state it is not complete and will grow over time to accommodate most interactions with the CC.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+There are two big parts of the documentation for different users
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Attendees of a tournament
+- Organizers of a tournament

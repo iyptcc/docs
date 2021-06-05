@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: IYPT CC Docs
+theme:
+    name: material
+    font: false
+    features:
+        - navigation.tracking
+        - navigation.tabs
+markdown_extensions:
+  - admonition
+plugins:
+    - search
+    - awesome-pages
+
+edit_uri: "https://github.com/iyptcc/docs/tree/main/docs"
+repo_url: "https://github.com/iyptcc/docs"
+
