@@ -1,7 +1,7 @@
 FROM squidfunk/mkdocs-material AS builder
 
 RUN pip install mkdocs-awesome-pages-plugin
-COPY . /docs/
+RUN git clone https://github.com/iyptcc/docs.git /docs/
 
 RUN mkdocs build
 
