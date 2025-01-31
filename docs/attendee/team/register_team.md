@@ -32,7 +32,7 @@ Every participant of the tournament has to [create an account](../account.md) in
 !!! warning
     If you do not see the menu item **Manage Teams**, you most likely have not set the active tournament to the one where the team is registered.
 
-0. As you are now an attendee of the given tournament, and have to [supply a set](../register_data.md) of information regarding your participation.
+0. As you are now an attendee of the given tournament, and have to [supply a set](../participation_data.md) of information regarding your participation.
 
 0. On the top field, you can enter a password, which is required by new members to apply to your team. Set it to something secret and disseminate it to the persons who should be able to join your team.
 
